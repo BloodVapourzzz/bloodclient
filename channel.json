@@ -1,0 +1,6 @@
+{
+  "version": "0.3.0-beta.7",
+  "url": "https://github.com/BloodVapourzzz/bloodclient/releases/download/launcher-v0.3.0-beta.7/BloodClientLauncher-Setup-0.3.0-beta.7.exe",
+  "sha256": "3475f87f0bc677b27e80ce83cf25335ec650020bc84fcfaa4d3de9149cfaefff",
+  "notes": "Launcher 0.3.0-beta.7 bundles Blood Client 0.12.0-alpha.8 for Minecraft 1.21.11, 26.2 and 26.3. The approved concept design now covers every launcher page, the main window, icons and Blood popup dialogs. Attach the installer to the launcher-v0.3.0-beta.7 GitHub Release."
+}
