@@ -1,6 +1,0 @@
-{
-  "version": "0.3.0-beta.3",
-  "url": "https://github.com/BloodVapourzzz/bloodclient/releases/download/launcher-v0.3.0-beta.3/BloodClientLauncher-Setup-0.3.0-beta.3.exe",
-  "sha256": "360a93b38bf12fa3a25809063c2b67b66816c892454ce5e1dc83c2b78441c725",
-  "notes": "Launcher 0.3.0-beta.3 bundles Blood Client 0.12.0-alpha.7 for Minecraft 1.21.11, 26.2 and 26.3. Alpha.7 removes Shield Banner Studio completely. Attach the installer to the launcher-v0.3.0-beta.3 GitHub Release."
-}
