@@ -1,0 +1,6 @@
+{
+  "version": "0.3.0-beta.4",
+  "url": "https://github.com/BloodVapourzzz/bloodclient/releases/download/launcher-v0.3.0-beta.4/BloodClientLauncher-Setup-0.3.0-beta.4.exe",
+  "sha256": "87c004564ba7c462b8558751fcd79e37da4732daa13106fefde644f6d7002d2b",
+  "notes": "Launcher 0.3.0-beta.4 bundles Blood Client 0.12.0-alpha.8 for Minecraft 1.21.11, 26.2 and 26.3. Alpha.8 brings the new B logo to the game and launcher. Attach the installer to the launcher-v0.3.0-beta.4 GitHub Release."
+}
