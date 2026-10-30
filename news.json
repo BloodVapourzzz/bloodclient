@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "bloodVersion": "0.12.0-alpha.8",
+  "date": "2026-10-30",
+  "headline": "Public website reviews via GitHub",
+  "bullets": [
+    "Public reviews saved on GitHub",
+    "Sign in with GitHub to post",
+    "Settings switch redraw fixed",
+    "Same Alpha.8 jars + 73 modules"
+  ],
+  "url": "https://www.bloodclient.linkpc.net/"
+}

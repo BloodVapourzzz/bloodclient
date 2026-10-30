@@ -1,0 +1,6 @@
+{
+  "version": "0.3.0-beta.8",
+  "url": "https://github.com/BloodVapourzzz/bloodclient/releases/download/launcher-v0.3.0-beta.8/BloodClientLauncher-Setup-0.3.0-beta.8.exe",
+  "sha256": "4ffcbd30a293dbb24677eb493f58643c3932181b18c6c25759e1b01e43cf1cf4",
+  "notes": "Launcher 0.3.0-beta.8 bundles Blood Client 0.12.0-alpha.8 for Minecraft 1.21.11, 26.2 and 26.3. This hotfix removes Settings switch redraw fragments and gives every in-window scroll area a synchronized slim Blood scrollbar. Attach the installer to the launcher-v0.3.0-beta.8 GitHub Release."
+}
