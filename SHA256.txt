@@ -1,0 +1,8 @@
+21dea7f0bec93d17cfbb04fd2872a277023b9aabc4d5b98bf5b81e99a5122f18  downloads/BloodClient-Root-CA.cer
+25641078fec93ce1176301bf6abd120f329f5c82ea29c77ce51f77db1b6ab087  downloads/BloodClientLauncher-Setup-2.0.0-signed.exe
+33eb1838f1d697356a500bf60403c6ffa431b8fce985e84435f2aa31c0312701  downloads/Install-BloodClient-Certificate.bat
+49c47aa751e93e9f05b698d0e3142957a344e3452bfef3379a63c2c35bf6d085  downloads/READ-ME-FIRST.txt
+77f2e79c49e765d1826d4e91637d1db02fa5631a86638f59fc74464f87f9ca7e  downloads/jars/bloodclient-0.12.0-alpha.8+mc1.21.11.jar
+9d13ebea39f6147ecf9c5287fba48f4cb4596f7accfe655237e5d209df9ea654  downloads/jars/bloodclient-0.12.0-alpha.8+mc26.2.jar
+e5a76fb9fee2bef8ccaa3440d74e939679b8cec310a4a2a72bcf2fd71c9c4e34  downloads/jars/bloodclient-0.12.0-alpha.8+mc26.3.jar
+8bc33ae5cd21ed28c50e5703fe1a0a3daa381486ca28e44e69a889802e8621f7  index.html
