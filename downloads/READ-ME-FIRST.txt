@@ -1,0 +1,39 @@
+BLOOD CLIENT — READ ME FIRST
+==================================
+
+INSTALL THE LAUNCHER
+--------------------
+1. Optional: right-click Install-BloodClient-Certificate.bat and choose Run as administrator.
+   It installs the public Blood Client certificate so Windows can show the publisher name.
+   The .bat needs BloodClient-Root-CA.cer beside it. No private key is included or required.
+2. Double-click BloodClientLauncher-Setup-2.0.0-signed.exe.
+3. Open Blood Client, choose an account and Minecraft version, then press PLAY.
+
+The installer is per-user. It does not modify your .minecraft folder.
+
+JARS ONLY (WITHOUT THE LAUNCHER)
+---------------------------------
+1. Install Fabric Loader 0.20.1 for your Minecraft version.
+2. Put the matching Blood Client jar into .minecraft\mods.
+3. Launch the Fabric profile.
+
+WINDOWS SECURITY NOTE
+---------------------
+Windows may show a download warning because the file came from the internet. The
+certificate is self-signed, not issued by a public certificate authority. The optional
+certificate helper installs only the public certificate; never share a private signing key.
+
+SHA-256 CHECKSUMS
+-----------------
+21dea7f0bec93d17cfbb04fd2872a277023b9aabc4d5b98bf5b81e99a5122f18  downloads/BloodClient-Root-CA.cer  (1,401 B)
+25641078fec93ce1176301bf6abd120f329f5c82ea29c77ce51f77db1b6ab087  downloads/BloodClientLauncher-Setup-2.0.0-signed.exe  (86,785,672 B)
+33eb1838f1d697356a500bf60403c6ffa431b8fce985e84435f2aa31c0312701  downloads/Install-BloodClient-Certificate.bat  (2,588 B)
+77f2e79c49e765d1826d4e91637d1db02fa5631a86638f59fc74464f87f9ca7e  downloads/jars/bloodclient-0.12.0-alpha.8+mc1.21.11.jar  (10,343,151 B)
+9d13ebea39f6147ecf9c5287fba48f4cb4596f7accfe655237e5d209df9ea654  downloads/jars/bloodclient-0.12.0-alpha.8+mc26.2.jar  (10,349,568 B)
+e5a76fb9fee2bef8ccaa3440d74e939679b8cec310a4a2a72bcf2fd71c9c4e34  downloads/jars/bloodclient-0.12.0-alpha.8+mc26.3.jar  (10,349,756 B)
+8bc33ae5cd21ed28c50e5703fe1a0a3daa381486ca28e44e69a889802e8621f7  index.html  (1,507,340 B)
+
+
+Site   : https://www.bloodclient.linkpc.net/
+Discord: https://discord.gg/xqjG5VbYf
+GitHub : https://github.com/BloodVapourzzz/bloodclient
